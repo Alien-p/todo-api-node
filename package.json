@@ -1,0 +1,26 @@
+{
+  "name": "todo-nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon ./app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alien-p/todo_api.git"
+  },
+  "author": "Ildar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Alien-p/todo_api/issues"
+  },
+  "homepage": "https://github.com/Alien-p/todo_api#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.2"
+  }
+}
